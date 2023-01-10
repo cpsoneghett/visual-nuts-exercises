@@ -4,15 +4,21 @@
 The project is built with Maven using Java 11.
 To build and run this project, run the commands bellow:
 
-1. Building:
+1. Cloning the repository:  
+   Run the following commands into a prompt console:
+```
+git clone https://github.com/cpsoneghett/visual-nuts-exercises.git
+
+cd visual-nuts-exercises/ 
+```
+
+2. Building:
 
 `mvn clean install`
 
-2. Running:
+3. Running:
 
 `java -cp target\java-exercises-1.0-SNAPSHOT.jar com.visualnuts.exercises.App`
-
-
 
 ### Project Details
 ####  1. First Exercise:
